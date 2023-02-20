@@ -24,10 +24,11 @@ nav {
 
 a {
 <<<<<<< HEAD
-=======
     text-decoration: none;
->>>>>>> b028ba9 (change color)
     color: green;
+=======
+    color: black;
+>>>>>>> new-contacts
 }
 
 a:hover {

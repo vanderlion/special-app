@@ -23,6 +23,10 @@ nav {
 }
 
 a {
+<<<<<<< HEAD
+=======
+    text-decoration: none;
+>>>>>>> b028ba9 (change color)
     color: green;
 }
 
